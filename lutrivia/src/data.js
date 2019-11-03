@@ -20,7 +20,7 @@ export const questions = [
       answer: true
   },
   {
-      text: "There are only three existing otter species: sea otter, ",
+      text: "There are only three existing otter species: sea otter, Eurasian otter, giant otter.",
       answer: false
   },
   {
